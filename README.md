@@ -67,7 +67,7 @@
 
 1. **Cloner le dépôt :**
 ```bash
-git clone https://github.com/votre-utilisateur/brainbox.git
+git clone https://github.com/AnnixArt/Brainbox.git
 cd brainbox
 
 
