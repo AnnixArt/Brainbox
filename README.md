@@ -69,3 +69,42 @@
 ```bash
 git clone https://github.com/votre-utilisateur/brainbox.git
 cd brainbox
+
+
+
+Installer les dépendances :
+
+npm install
+
+
+Démarrer le serveur de développement :
+
+npx expo start
+
+
+Tester sur un appareil ou un émulateur :
+
+Scanner le QR code avec l’application Expo Go (Android / iOS)
+
+Ou lancer un émulateur intégré
+
+📸 Captures d’écran
+
+
+
+
+
+
+👨‍💻 À propos du développeur
+
+Nom : Annis Artadji
+Rôle : Développeur & Designer
+Objectif : Créer des applications modernes, intuitives et professionnelles
+
+📄 Licence
+
+Ce projet est sous licence MIT. Voir le fichier LICENSE
+ pour plus de détails.
+
+✨ Merci d’utiliser Brainbox !
+Pour toute suggestion ou bug, veuillez ouvrir une issue sur GitHub.
