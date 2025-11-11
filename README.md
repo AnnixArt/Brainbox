@@ -1,51 +1,71 @@
-# Welcome to your Expo app 👋
+# 🧠 Brainbox
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**Brainbox** est une application mobile moderne pour la **conversion de nombres multi-base** et la **calculatrice intégrée**, conçue pour offrir une expérience professionnelle, fluide et intuitive. Idéale pour les étudiants, développeurs et passionnés de mathématiques.
 
-## Get started
+---
 
-1. Install dependencies
+## 🌟 Fonctionnalités principales
 
-   ```bash
-   npm install
-   ```
+- 🔢 **Conversion multi-base** :  
+  Convertissez instantanément des nombres entre :  
+  - Binaire (Base 2)  
+  - Décimal (Base 10)  
+  - Octal (Base 8)  
+  - Hexadécimal (Base 16)  
 
-2. Start the app
+- 🔘 **Bouton Convertir** : Affiche instantanément tous les résultats dans les autres bases.  
 
-   ```bash
-   npx expo start
-   ```
+- 🗑️ **Bouton Supprimer** : Supprime un ou plusieurs caractères de l’entrée sans tout réinitialiser.  
 
-In the output, you'll find options to open the app in a
+- 🔄 **Bouton Réinitialiser** : Vide complètement le champ d’entrée et les résultats.  
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- 📘 **Bouton Explication** : Fournit des explications détaillées sur les conversions et les bases numériques.  
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- ℹ️ **Bouton À propos** : Affiche les informations sur l’application et le développeur.  
 
-## Get a fresh project
+- 🧮 **Calculatrice intégrée** :  
+  - Design moderne glassmorphism  
+  - Touches interactives et animées  
+  - Support des opérations classiques `+`, `-`, `×`, `÷`  
+  - Affichage dynamique des résultats  
 
-When you're ready, run:
+- 🚪 **Bouton Quitter** : Confirme la fermeture de l’application pour éviter les fermetures accidentelles.  
 
+---
+
+## 🎨 Design et expérience utilisateur
+
+- Thème sombre élégant et professionnel 🌌  
+- Couleurs modernes et harmonieuses 💙  
+- Animations fluides et transitions douces 🎞️  
+- Interface intuitive et responsive sur tous les écrans 📱  
+- Boutons interactifs et feedback tactile réaliste  
+
+---
+
+## 🏆 Pourquoi utiliser Brainbox ?
+
+- Rapide, fluide et intuitif  
+- Combine **conversion multi-base + calculatrice** dans une seule application  
+- Adapté aux étudiants, développeurs et passionnés de mathématiques  
+- Design moderne, animations élégantes et expérience premium  
+
+---
+
+## ⚙️ Technologies utilisées
+
+- React Native  
+- TypeScript  
+- Expo  
+- React Native Reanimated  
+- Expo Linear Gradient  
+- @expo/vector-icons  
+
+---
+
+## 📱 Installation et démarrage
+
+1. **Cloner le dépôt :**
 ```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-"# Brainbox" 
+git clone https://github.com/votre-utilisateur/brainbox.git
+cd brainbox
